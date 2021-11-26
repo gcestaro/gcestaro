@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gcestaro" alt="gcestaro" /></a> </p>
 
-- 🔭 I’m currently working on **Stefanini**
+- 🔭 I’m currently working on [Stefanini](https://stefanini.com/pt-br)
 
 - 👯 I’m looking to collaborate on [Movimento Codar](https://github.com/movimentocodar)
 
