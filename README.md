@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gcestaro" alt="gcestaro" /></a> </p>
 
-- 🔭 I’m currently working on [Stefanini](https://stefanini.com/pt-br)
+- 🔭 I’m currently working on [Aubay](https://www.aubay.pt)
 
-- 👯 I’m looking to collaborate on [Movimento Codar](https://github.com/movimentocodar)
+- 👯 I’m looking to collaborate on [FanDuel](https://github.com/fanduel) & [Movimento Codar](https://github.com/movimentocodar)
 
-- 📝 I regularly write articles on [https://gabrielcestaro.com/blog/](https://gabrielcestaro.com/blog/)
+- 📝 I regularly write articles on [Blog](https://gabrielcestaro.com/blog/)
 
 - 💬 Ask me about **Java, OOP, Design Patterns, Software Architecture**
 
