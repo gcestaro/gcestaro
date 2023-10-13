@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel Cestaro</h1>
-<h3 align="center">A passionate senior software engineer from Portugal</h3>
+<h3 align="center">A software engineer from Portugal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gcestaro&label=Profile%20views&color=0e75b6&style=flat" alt="gcestaro" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on [FanDuel](https://github.com/fanduel) & [Movimento Codar](https://github.com/movimentocodar)
 
-- 📝 I regularly write articles on [Blog](https://gabrielcestaro.com/blog/)
+- 📝 I regularly write articles on my [Blog](https://gabrielcestaro.com/blog/)
 
 - 💬 Ask me about **Java, OOP, Design Patterns, Software Architecture**
 
