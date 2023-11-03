@@ -11,11 +11,11 @@
 
 - 👯 I’m looking to collaborate on [FanDuel](https://github.com/fanduel) & [Movimento Codar](https://github.com/movimentocodar)
   
-- 📝 I write articles on [https://gabrielcestaro.com/blog/](https://gabrielcestaro.com/blog/)
+- 📝 I write articles on [my blog](https://gabrielcestaro.com/blog/)
 
 - 💬 Ask me about **Java, OOP, Design Patterns, Software Architecture**
 
-- 📫 How to reach me **gabrielcestaro94@gmail.com**
+- 📫 How to reach me: **gabrielcestaro94@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
