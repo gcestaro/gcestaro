@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **DevOps methods and tools, Platform Engineering**
 
-- 👯 I’m looking to collaborate on [FanDuel](https://github.com/fanduel) & [Movimento Codar](https://github.com/movimentocodar)
+- 👯 I’m looking to collaborate on [Movimento Codar](https://github.com/movimentocodar)
   
 - 📝 I write articles on [my blog](https://gabrielcestaro.com/blog/)
 
