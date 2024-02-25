@@ -5,17 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gcestaro" alt="gcestaro" /></a> </p>
 
-- 🔭 I’m currently working on [Aubay Portugal](https://www.aubay.pt)
+- 🔭 I’m currently working on [Kuehne+Nagel](https://pt.kuehne-nagel.com/pt/)
 
-- 🌱 I’m currently learning **DevOps methods and tools, Platform Engineering**
+- 🌱 I’m currently learning **Python, GenAI, ML, DevOps Culture, AWS Solutions**
 
-- 👯 I’m looking to collaborate on [Movimento Codar](https://github.com/movimentocodar)
-  
-- 📝 I write articles on [my blog](https://gabrielcestaro.com/blog/)
+- 👯 I’m looking to collaborate on [Movimento Codar](https://movimentocodar.org/)
+
+- 📝 I write articles on [https://gabrielcestaro.com/blog/](https://gabrielcestaro.com/blog/)
 
 - 💬 Ask me about **Java, OOP, Design Patterns, Software Architecture**
 
-- 📫 How to reach me: **gabrielcestaro94@gmail.com**
+- 📫 How to reach me **gabrielcestaro94@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/gabcestaro/](https://www.linkedin.com/in/gabcestaro/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
